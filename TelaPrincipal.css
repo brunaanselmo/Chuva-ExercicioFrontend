@@ -1,0 +1,57 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.titulo {
+  width:220px;
+  height:68px;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: linear-gradient(180deg, #ffb354 0%, #ee7a3a 100%);
+}
+
+.titulo-side-bar {
+  position: absolute;
+  left: 9.09%;
+  right: 10%;
+  top: 0%;
+  bottom: 0%;
+  font-family: 'Segoe UI';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+}
+
+.header{
+
+display:flex;
+flex-direction: row;
+
+
+}
+
+.video-detalhes{
+
+display:flex;
+flex-direction: row;
+
+
+
+}
